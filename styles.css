@@ -1,14 +1,14 @@
 
 body {
     height: 100%;
-    font-family: Arial, sans-serif;
+    font-family: roboto, Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #bbdefb;
+    background-color: hsl(207, 84%, 52%);
 }
 
 .navbar-blanco {
-    background-color: #ffffff;
+    background-color: #470606;
     color: #000000;
     padding: 10px; /* aumenta el tamaño del header*/
     display: flex;
@@ -124,13 +124,13 @@ li {
     color: #8a0000; /* cambia el color de la letra de los items de la lista*/
 }
 p {
-    font-size: 16px; /* cambia el tamaño de la letra del texto*/
+    font-size: 20px; /* cambia el tamaño de la letra del texto*/
 }
 
 .footer {
     background-color: #1565c0; /* cambia el color del pie de pagina (footer)*/
     color: #ffffff;
-    text-align: center;
+    text-align: left;
     padding: 10px; /* cambia el tamaño del footer*/
     position: fixed;
     bottom: 0;
